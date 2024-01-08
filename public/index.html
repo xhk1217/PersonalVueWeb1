@@ -5,6 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="<%= BASE_URL %>css/bootstrap.min.css" rel="stylesheet">
+    <link href="<%= BASE_URL %>css/bootstrap-icons.css" rel="stylesheet">
+    <link href="<%= BASE_URL %>css/apexcharts.css" rel="stylesheet">
+    <link href="<%= BASE_URL %>css/tooplate-mini-finance.css" rel="stylesheet">
+    <link href="<%= BASE_URL %>css/myself.css" rel="stylesheet">
     <title><%= htmlWebpackPlugin.options.title %></title>
   </head>
   <body>
@@ -14,4 +23,9 @@
     <div id="app"></div>
     <!-- built files will be auto injected -->
   </body>
+  <!-- 可以在这里导入js和css，不过还没尝试，之前出问题在于在组件中import，然后语法错误...,不过css应该也可以用这种方式导入 -->
+  <script src="<%= BASE_URL %>js/jquery.min.js"></script>
+  <script src="<%= BASE_URL %>js/bootstrap.bundle.min.js"></script>
+  <script src="<%= BASE_URL %>js/apexcharts.min.js"></script>
+  <script src="<%= BASE_URL %>js/custom.js"></script>
 </html>
