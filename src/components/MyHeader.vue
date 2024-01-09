@@ -94,6 +94,7 @@ export default {
   
   <!-- Add "scoped" attribute to limit CSS to this component only -->
   <style scoped>
+  /* 下面的css还是要导入的，好像组件的css不能被全局覆盖？还是因为scoped？ */
     @import url('@/assets/css/bootstrap.min.css');
     @import url('@/assets/css/bootstrap-icons.css');
     @import url('@/assets/css/apexcharts.css');
