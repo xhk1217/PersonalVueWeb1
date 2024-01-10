@@ -11,18 +11,44 @@
                         <div class="col-12 mx-auto" style="max-width: 1100px;">
                             <div class="custom-block bg-white">
                                 <h5 class="mb-4">博客1</h5>
-                                <span>啊发大水发大水发大水发单沙发手打擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦的算法的算法的算法打撒</span>
+                                <span>这是博客1 (里面的内容尚未想好)</span>
                                 <!-- <div id="pie-chart" class="my-chart"></div>  这个在index.html中用id或者class无法找到渲染，不知道为什么 -->
                             </div>
                         </div>
                         <div class="col-12 mx-auto" style="max-width: 1100px;">
                             <div class="custom-block bg-white">
                                 <h5 class="mb-4">博客2</h5>
-                                <span>啊发大水发大水发大水发单沙发手打擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦的算法的算法的算法打撒</span>
+                                <span>这是博客2 (里面的内容尚未想好)</span>
+                            </div>
+                        </div>
+                        <div class="col-12 mx-auto" style="max-width: 1100px;">
+                            <div class="custom-block bg-white">
+                                <h5 class="mb-4">博客3</h5>
+                                <span>这是博客3 (里面的内容尚未想好)</span>
                                 <!-- <div id="pie-chart" class="my-chart"></div>  这个在index.html中用id或者class无法找到渲染，不知道为什么 -->
                             </div>
                         </div>
-
+                        <div class="col-12 mx-auto" style="max-width: 1100px;">
+                            <div class="custom-block bg-white">
+                                <h5 class="mb-4">博客4</h5>
+                                <span>这是博客4 (里面的内容尚未想好)</span>
+                                <!-- <div id="pie-chart" class="my-chart"></div>  这个在index.html中用id或者class无法找到渲染，不知道为什么 -->
+                            </div>
+                        </div>
+                        <div class="col-12 mx-auto" style="max-width: 1100px;">
+                            <div class="custom-block bg-white">
+                                <h5 class="mb-4">博客5</h5>
+                                <span>这是博客5 (里面的内容尚未想好)</span>
+                                <!-- <div id="pie-chart" class="my-chart"></div>  这个在index.html中用id或者class无法找到渲染，不知道为什么 -->
+                            </div>
+                        </div>
+                        <div class="col-12 mx-auto" style="max-width: 1100px;">
+                            <div class="custom-block bg-white">
+                                <h5 class="mb-4">博客6</h5>
+                                <span>这是博客6 (里面的内容尚未想好)</span>
+                                <!-- <div id="pie-chart" class="my-chart"></div>  这个在index.html中用id或者class无法找到渲染，不知道为什么 -->
+                            </div>
+                        </div>
     
                     </div>
 

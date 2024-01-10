@@ -35,7 +35,7 @@
                             
                             <div class="custom-block bg-white">
                                 <h5 class="mb-4">个人介绍</h5>
-                                <span>啊发大水发大水发大水发单沙发手打擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦擦的算法的算法的算法打撒</span>
+                                <span>大家好，我是许恒锴，来自软件22-01班，嗯....不知道说什么，就这样吧（在之后想到再填充）</span>
                                 <!-- <div id="pie-chart" class="my-chart"></div>  这个在index.html中用id或者class无法找到渲染，不知道为什么 -->
                             </div>
 

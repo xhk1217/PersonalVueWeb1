@@ -21,23 +21,23 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-lg-4 col-md-4 col-4">
-                                        <a class="dropdown-item text-center" href="#">
-                                            <img src="@/assets/images/social/search.png" class="profile-image img-fluid" alt="">
-                                            <span class="d-block">Google</span>
+                                        <a class="dropdown-item text-center" href="https://space.bilibili.com/288480424?spm_id_from=333.337.0.0">
+                                            <img src="@/assets/images/social/bilibili.png" class="profile-image img-fluid" alt="">
+                                            <span class="d-block">Bilibili</span>
                                         </a>
                                     </div>
 
                                     <div class="col-lg-4 col-md-4 col-4">
-                                        <a class="dropdown-item text-center" href="#">
-                                            <img src="@/assets/images/social/spotify.png" class="profile-image img-fluid" alt="">
-                                            <span class="d-block">Spotify</span>
+                                        <a class="dropdown-item text-center" href="https://github.com/xhk1217/">
+                                            <img src="@/assets/images/social/github.png" class="profile-image img-fluid" alt="">
+                                            <span class="d-block">github</span>
                                         </a>
                                     </div>
 
                                     <div class="col-lg-4 col-md-4 col-4">
-                                        <a class="dropdown-item text-center" href="#">
-                                            <img src="@/assets/images/social/telegram.png" class="profile-image img-fluid" alt="">
-                                            <span class="d-block">Telegram</span>
+                                        <a class="dropdown-item text-center" href="https://gitee.com/xhk1217">
+                                            <img src="@/assets/images/social/gitee.png" class="profile-image img-fluid" alt="">
+                                            <span class="d-block">gitee</span>
                                         </a>
                                     </div>
                                 </div>

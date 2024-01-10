@@ -31,9 +31,6 @@
                                     留言
                                 </a>
                             </li>
-
-                            
-
                             <li class="nav-item border-top mt-auto pt-2">
                                 <a class="nav-link" href="#">
                                     <i class="bi-box-arrow-left me-2"></i>
