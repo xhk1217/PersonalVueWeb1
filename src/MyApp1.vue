@@ -1,7 +1,7 @@
 <template>
 
   <div id="app">
-    <MyHeader name="许恒锴"></MyHeader>
+    <MyHeader name="..."></MyHeader>
     <div class="container-fluid">
       <div class="row">
         <MyDir isActive=0></MyDir>
